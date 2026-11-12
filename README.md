@@ -1,7 +1,7 @@
 # Project_1_TicTacToe
 Tic Tac Toe Project for COMP 120
 
-This project is a simple tic-tac-toe game where a human player goes against a computer with randomized selection. Because of this, the computer does not very smart moves as you may realize. 
+This project is a simple tic-tac-toe game where a human player goes against a computer with randomized selection. Because of this, the computer does not make very smart moves as you may realize. 
 
 # How to Compile and Run:
 To compile run the command:
